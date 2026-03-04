@@ -15,5 +15,8 @@ import studio6.tests.RecursiveToReversedTestSuite;
 @Suite.SuiteClasses({ IterativeTestSuite.class, RecursiveGeometricSumTestSuite.class, RecursiveGCDTestSuite.class,
 		RecursiveToReversedTestSuite.class, })
 public class MethodsTestSuite {
-
+public static void main(String[] args) {
+	public static void 
+	}
+}
 }

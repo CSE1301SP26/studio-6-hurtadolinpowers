@@ -20,6 +20,9 @@ public class IterativeMethods {
 		return sum;
 	}
 
+	
+	}
+
 	/**
 	 * @param p first operand
 	 * @param q second operand
@@ -51,6 +54,17 @@ public class IterativeMethods {
 				reversed[mirrorIndex] = array[index];
 			}
 		}
+	
 		return reversed;
+	}
+	public static int[] toReversedHelper(int[] array){
+		if (array.length >0){
+			int lastIndex = array.length-1;
+			for (int index = 0; index <= array.length/2; ++ index){
+				
+			}
+
+		}
+		return 
 	}
 }
